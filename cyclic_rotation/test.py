@@ -1,6 +1,6 @@
 from unittest import main
 from unittest import TestCase
-from main import solution
+from run import solution
 
 
 class CyclicRotationTest(TestCase):
